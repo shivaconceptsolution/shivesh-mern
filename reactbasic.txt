@@ -1,13 +1,21 @@
-install node js
+How to install node js?
 https://nodejs.org/en/download/
-install react js
+How to install react js?
 npm install react   
-check react version
+How to check react version?
 npm view react version
-create react application
+
+How to create react application?
 npx create-react-app app-name
-npm install react-router-dom
+How to start react project?
+cd appname
 npm start
+
+How to install react-router-dom?
+npm install react-router-dom
+
+Syntax of Component:-
+
 function mycom()
 {
 let x=10;
@@ -19,3 +27,4 @@ return(
 </div>)
 
 }
+export default mycom
