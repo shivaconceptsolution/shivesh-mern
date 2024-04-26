@@ -1,0 +1,21 @@
+install node js
+https://nodejs.org/en/download/
+install react js
+npm install react   
+check react version
+npm view react version
+create react application
+npx create-react-app app-name
+npm install react-router-dom
+npm start
+function mycom()
+{
+let x=10;
+let y=20;
+return(
+<div>
+<p>hello world</p>
+{x+y}
+</div>)
+
+}
